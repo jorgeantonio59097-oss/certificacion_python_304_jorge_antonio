@@ -1,0 +1,12 @@
+def moto_venta():
+    producto=str(input("introduce el producto:"))
+    print(producto)
+    producto=int(input("introduce el producto:"))
+    cantidad=(input("cantidad"))
+    print=("\n --- resumen de venta ---")
+    cantidad=int(input("cantidad"))
+    print("producto",producto)
+    print("precio $",)
+    print("cantidad",cantidad)
+    print("total: $",)
+moto_venta()
